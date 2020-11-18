@@ -1,2 +1,3 @@
-# beta-bugs
-Report Tact closed beta bugs.
+# Tact closed beta bugs
+
+Report any bugs about Tact closed beta to the “Issues” section of this repo.
