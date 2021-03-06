@@ -4,7 +4,7 @@ To report any bugs you find in the Tact closed beta, [create a new issue][new].
 
 ## Instructions
 
-[Logging.] Tact produces logs through its activity. See this file for info about how to access these logs.
+[Logging.](Logging.md) Tact produces logs through its activity. See this file for info about how to access these logs.
 
 ## Tact gotchas and quirks
 
