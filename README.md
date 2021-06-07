@@ -6,10 +6,18 @@ To report any bugs you find in the Tact closed beta, [create a new issue][new].
 
 [Logging.](Logging.md) Tact produces logs through its activity. See this file for info about how to access these logs.
 
-## Tact gotchas and quirks
-
-Here’s a list of gotchas about Tact behavior that may be useful to know.
-
-* **Message sending time and sorting.** Messages in chats are sorted by time. The time is set by the sender at the moment of message creation (clicking the “Send” button or tapping “Send” in iOS). It works fine across timezones. It is dependent on the sending device clock. If your clock is off, this will be reflected in message sort order.
-
 [new]: https://github.com/tact/beta-bugs/issues/new/choose
+
+## Clearing local data on macOS
+
+It may be that you get your Tact into a state that keeps crashing on launch. You can reset the client into a state where it starts from zero. You should do two things for this while the client is not running.
+
+### Clear user defaults
+
+Run this command in Terminal: `defaults delete eu.delta8.CChat`
+
+### Remove local data
+
+Open the folder `~/Library/Containers` and remove any folders with "Tact" in their name.
+
+After you do these two things and restart the client, it re-initializes local state and re-downloads recent data. You can get older data by clicking "Load more" in each chat.
