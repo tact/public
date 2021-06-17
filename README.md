@@ -1,4 +1,4 @@
-# Tact closed beta bugs
+# Tact private beta bugs
 
 To report any bugs you find in the Tact closed beta, [create a new issue][new].
 
