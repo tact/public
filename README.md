@@ -1,4 +1,8 @@
-# Tact private beta bugs
+# Tact public beta community site
+
+(note: this repo is private until we start our public beta. Everything else still applies.)
+
+Welcome to Tact community site! Tact source code is not public, but many other parts of our operations are. This repo gives you access to our bug tracker and discussions area.
 
 To report any bugs you find in the Tact closed beta, [create a new issue][new].
 
@@ -9,8 +13,6 @@ See [FAQ](FAQ.md) for common questions and answers.
 ## Instructions
 
 [Logging.](Logging.md) Tact produces logs through its activity. See this file for info about how to access these logs.
-
-[new]: https://github.com/tact/beta-bugs/issues/new/choose
 
 ## Clearing local data on macOS
 
@@ -25,3 +27,5 @@ Run this command in Terminal: `defaults delete eu.delta8.CChat`
 Open the folder `~/Library/Containers` and remove any folders with "Tact" in their name.
 
 After you do these two things and restart the client, it re-initializes local state and re-downloads recent data. You can get older data by clicking "Load more" in each chat.
+
+[new]: https://github.com/tact/beta-bugs/issues/new/choose
