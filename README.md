@@ -28,4 +28,4 @@ Open the folder `~/Library/Containers` and remove any folders with "Tact" in the
 
 After you do these two things and restart the client, it re-initializes local state and re-downloads recent data. You can get older data by clicking "Load more" in each chat.
 
-[new]: https://github.com/tact/beta-bugs/issues/new/choose
+[new]: https://github.com/tact/public/issues/new/choose
