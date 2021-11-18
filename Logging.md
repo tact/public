@@ -4,6 +4,8 @@ Tact produces a log as it operates. This log contains technical information abou
 
 You can freely access the Tact log yourself on your devices, both to diagnose problems, and just inspecting yourself what Tact does if you’re curious.
 
+For privacy reasons, Tact never sends its log anywhere automatically. The log always remains on the device where it is produced. If you wish to share the information from the log with anyone, you should extract the log yourself with the below instructions, verify what it contains, and only then share it.
+
 ## Simple log
 
 You can access Tact’s recent log very simply in both macOS and iOS apps. Click or tap `Settings`, `Developer`. Scroll down and find `Application log`. Open it, and you see Tact’s recent log entries.
