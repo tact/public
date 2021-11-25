@@ -14,10 +14,11 @@ A short description of what the bug is.
 
 ## Environment
 
- - Device: [e.g iMac, MacBook Pro 16", iPhone 11 Pro]
+ - Tact version [e.g. 1.2 (141)]
+ - Hardware: [e.g iMac, MacBook Pro 16", iPhone 11 Pro, iPhone14,2]
  - OS version: [e.g. Big Sur 11.0.1 (20B29)]
- - Tact version [e.g. 1.2 (66)]
 
+_You can get these details in Settings, About._
 
 ## To reproduce
 
