@@ -1,7 +1,5 @@
 # Tact public beta community site
 
-(note: this repo is private until we start our public beta. Everything else still applies.)
-
 Welcome to Tact community site! Tact source code is not public, but many other parts of our operations are. This repo gives you access to our bug tracker and discussions area.
 
 What you can do here:
