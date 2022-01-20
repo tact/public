@@ -29,7 +29,11 @@ sudo log config --mode "level:debug" --subsystem com.justtact.Tact
 To see a live log as an app is running, run Terminal and enter the following command:
 
 ```bash
+# Only Tact:
 log stream --level debug --predicate 'subsystem == "com.justtact.Tact"' --style compact
+
+# Tact and the Glitter XPC updater
+ log stream --level debug --predicate 'subsystem == "com.justtact.Tact.GlitterXPC" or subsystem == "com.justtact.Tact"' --style compact
 ```
 
 If you then run Tact, you can see the logs live in Terminal window.
