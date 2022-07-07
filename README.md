@@ -6,6 +6,7 @@ What you can do here:
 
 * To report any bugs you find in the Tact public beta, [create a new issue.][new]
 * To share your thoughts and ideas, and see what others have shared, see the [discussions area.][discussions]
+* To see Tact user guide and learn how different parts of the app work, see the [wiki.][wiki]
 
 ## FAQ
 
@@ -17,3 +18,4 @@ See [FAQ](FAQ.md) for common questions and answers.
 
 [new]: https://github.com/tact/public/issues/new/choose
 [discussions]: https://github.com/tact/public/discussions
+[wiki]: https://github.com/tact/public/wiki
