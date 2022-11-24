@@ -12,7 +12,7 @@ This may happen on macOS when you have not moved Tact.app to /Applications. Plea
 
 **My Tact installation is completely hosed. Something is very wrong with it and it doesn’t behave correctly. How do I get back into a good state?**
 
-On iOS, just delete the app, and reinstall it from TestFlight.
+On iOS, just delete the app, and reinstall it from TestFlight or App Store.
 
 On macOS:
 
